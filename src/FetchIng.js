@@ -28,4 +28,4 @@ const Fetching = async (url, method, data, authToken) => {
     
 }
 
-module.exports = Fetching;
+export default Fetching;
